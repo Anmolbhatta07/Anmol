@@ -383,7 +383,7 @@ def menu():
                                 os.system('xdg-open https://chat.whatsapp.com/LVNRGv5qwd9CpeNlMaXDgQ')
                                 menu()
                         elif xd in ['92938','04777']:
-                                os.system('xdg-open https://t.me/god_zekr')
+                                os.system('xdg-open https://t.me/anmol_bhatta07')
                                 menu()
                         elif xd in ['2','02']:
                                 os.system('xdg-open https://www.facebook.com/Anmol015?mibextid=ZbWKwL')
